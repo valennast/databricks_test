@@ -1,0 +1,26 @@
+{
+  "datasets": [
+    {
+      "name": "5ee56a24",
+      "displayName": "Untitled dataset",
+      "queryLines": [
+        "select * from accuweather.forecast_daily_calendar_imperial"
+      ],
+      "catalog": "samples",
+      "schema": "accuweather"
+    }
+  ],
+  "pages": [
+    {
+      "name": "ba768b4d",
+      "displayName": "Untitled page",
+      "pageType": "PAGE_TYPE_CANVAS"
+    }
+  ],
+  "uiSettings": {
+    "theme": {
+      "widgetHeaderAlignment": "ALIGNMENT_UNSPECIFIED"
+    },
+    "applyModeEnabled": false
+  }
+}
